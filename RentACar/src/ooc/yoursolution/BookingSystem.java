@@ -9,6 +9,6 @@ package ooc.yoursolution;
  *
  * @author My PC
  */
-public class BookingSystem {
+public class BookingSystem implements BookingSystemIterface {
     
 }

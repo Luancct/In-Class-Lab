@@ -18,5 +18,7 @@ public interface BookingSystemInterface {
      * @throws IOException 
      */
     public RentACarInterface setupRentACar(BufferedReader in) throws IOException;
+    RentACarInterface rentacar = new RentACar ();
     
+    return rentacar; 
 }

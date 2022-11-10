@@ -9,7 +9,7 @@ package ooc.yoursolution;
  *
  * @author My PC
  */
-public class Car {
+public class Car implements CarInterfaces {
     private final string _makeModel;
     private final int _month;
     private final int _make;
